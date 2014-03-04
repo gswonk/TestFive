@@ -1,1 +1,5 @@
 hello
+This is a line that was added
+To make sure everything is working, you'll now try SSHing to GitHub. 
+When you do this, you will be asked to authenticate this action using your 
+password, which for the passphrase you created earlier.
